@@ -1,0 +1,37 @@
+table, td, th{
+                border:2px solid red;
+            }
+           
+            table{
+                margin: 15px;
+                width:100%;
+                border-collapse: collapse;
+            }
+           
+     
+            
+            td:first-child{
+                width:400px;
+            }
+            
+            td:last-child{
+                text-align: right;
+            }
+           
+            
+            .lista{
+                padding-left: 20px
+                list-style-type: mongolian
+            }
+             
+#corpo{
+     width: 90%;
+     margin: auto;
+     }
+hl img{
+ height: 50px;
+}
+td img, td :first-child{
+ width: 50px;
+} 
+
